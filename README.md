@@ -2,6 +2,7 @@
 
 🎓 Estudante de **Desenvolvimento de Sistemas / AMS** na **ETEC Zona Leste**  
 💻 Amante da tecnologia, desenvolvimento de sistemas e gestão de projetos. 
+
 📚 Atualmente aprendendo mais sobre **PHP, Java e Kotlin**
 
 ---
