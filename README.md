@@ -23,6 +23,7 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Renato1909&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Renato1909&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Renato1909)](https://git.io/streak-stats)
 
 ---
 
