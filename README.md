@@ -50,7 +50,7 @@
 - 🎓 Estudante da **ETEC Zona Leste**
 - 💻 Curso **Desenvolvimento de Sistemas (AMS)**
 - 🌐 Interesse em desenvolvimento **front-end, back-end e mobile**
-- 📱 Atualmente estudando **PHP, Java, Kotlin, Python e C#**
+- 📱 Atualmente estudando **PHP, Java, Kotlin, Python, C, C++ e C#**
 - 🚀 Sempre aprendendo novas tecnologias
 
 ---
