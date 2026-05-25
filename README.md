@@ -2,7 +2,7 @@
 
 💻 Estudante de **Desenvolvimento de Sistemas / AMS** na **ETEC Zona Leste**  
 📚 Apaixonado por tecnologia, desenvolvimento web, mobile e back-end  
-🚀 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor  
+🚀 Sempre buscando aprender novas tecnologias  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 
 ---
@@ -26,19 +26,19 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&langs_count=10&theme=radical"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Streak de Contribuições
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Renato1909&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Renato1909&theme=radical&hide_border=false"/>
 
 </div>
 
@@ -49,8 +49,8 @@
 - 🎓 Estudante da **ETEC Zona Leste**
 - 💻 Curso **Desenvolvimento de Sistemas (AMS)**
 - 🌐 Interesse em desenvolvimento **front-end, back-end e mobile**
-- 📱 Estudando atualmente **PHP, Java, Kotlin, Python e C#**
-- 🚀 Sempre buscando aprender novas tecnologias
+- 📱 Atualmente estudando **PHP, Java, Kotlin, Python e C#**
+- 🚀 Sempre aprendendo novas tecnologias
 
 ---
 
