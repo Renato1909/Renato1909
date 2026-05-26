@@ -1,6 +1,8 @@
 ![Banner Title](banner.jpg)
 
-<p align="center"><img src="image-link.png" alt="Banner"></p>
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="900"/>
+</p>
 
 # 👋 Olá, sou Renato Aparecido da Silva
 
