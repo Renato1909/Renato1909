@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.jpg" width="100%" style="border-radius: 15px;" />
+</div>
+
 # 👋 Olá, sou Renato Aparecido da Silva
 
 💻 Estudante de **Desenvolvimento de Sistemas / AMS** na **ETEC Zona Leste**  
