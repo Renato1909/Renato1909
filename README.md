@@ -1,9 +1,3 @@
-![Banner Title](banner.jpg)
-
-<p align="center">
-  <img src="banner.jpg" alt="Banner" width="900"/>
-</p>
-
 # 👋 Olá, sou Renato Aparecido da Silva
 
 💻 Estudante de **Desenvolvimento de Sistemas / AMS** na **ETEC Zona Leste**  
