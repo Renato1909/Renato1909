@@ -42,7 +42,7 @@
 ## 🔥 Streak de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Renato1909&theme=radical&hide_border=true" />
 </p>
 
 ---
