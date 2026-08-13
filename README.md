@@ -105,19 +105,27 @@ Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://komarev.com/ghpvc/?username=Renato1909&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+<img src="https://img.shields.io/github/followers/Renato1909?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
+
+<img src="https://img.shields.io/github/stars/Renato1909?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS" alt="GitHub Stars" />
 
 </div>
 
 <br>
 
-## 🔥 Contribution Streak
+## 🔥 Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Renato1909&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+Minhas contribuições, projetos e atividade de desenvolvimento podem ser acompanhadas diretamente pelo meu perfil no GitHub.
+
+<br>
+
+<a href="https://github.com/Renato1909">
+  <img src="https://img.shields.io/badge/Ver%20minhas%20contribuições-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions" />
+</a>
 
 </div>
 
