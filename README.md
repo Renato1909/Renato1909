@@ -156,25 +156,29 @@ Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem 
 <!--                       GITHUB STATS                         -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                         -->
+<!-- ========================================================= -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&hide_border=true"
-  height="165"
-  alt="GitHub Stats"
+  src="./profile/stats.svg"
+  height="180"
+  alt="Renato Silva GitHub Stats"
 />
 
-<br><br>
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  height="165"
-  alt="Top Languages"
+  src="./profile/languages.svg"
+  height="180"
+  alt="Renato Silva Most Used Languages"
 />
 
 </div>
+
+<br>
 
 <!-- ========================================================= -->
 <!--                           STREAK                            -->
@@ -185,8 +189,8 @@ Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem 
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Renato1909&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
+  src="./profile/streak.svg"
+  alt="Renato Silva GitHub Contribution Streak"
 />
 
 </div>
