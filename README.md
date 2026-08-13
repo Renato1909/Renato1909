@@ -1,46 +1,266 @@
+<!-- ========================================================= -->
+<!--                  RENATO SILVA • GITHUB                     -->
+<!-- ========================================================= -->
+
 <div align="center">
-  <img src="banner.jpg" width="100%" style="border-radius: 15px;" />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:238636&text=Renato%20Silva&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20Student&descAlignY=58&animation=fadeIn"
+/>
+
 </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renato1909" alt="renato1909" /></a> </p>
+# 👋 Olá, eu sou Renato Silva
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Full Stack Developer • Software Development Student • Technology Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/renato1909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renato1909" height="30" width="40" /></a>
-<a href="https://instagram.com/renato.yxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renato.yxh" height="30" width="40" /></a>
-</p>
+Desenvolvedor brasileiro em constante aprendizado, interessado em desenvolvimento de software, aplicações web, inteligência artificial e novas tecnologias.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renato1909&show_icons=true&locale=en&layout=compact" alt="renato1909" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renato1909&show_icons=true&locale=en" alt="renato1909" /></p>
+<!-- ========================================================= -->
+<!--                         SOBRE MIM                          -->
+<!-- ========================================================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renato1909&" alt="renato1909" /></p>
+## 👨‍💻 Sobre mim
 
+- 🎓 Estudante de **Desenvolvimento de Sistemas**
+- 💻 Desenvolvedor **Full Stack**
+- 🐍 Aprofundando meus conhecimentos em **Python**
+- 🐹 Aprofundando meus conhecimentos em **Go**
+- 🌐 Experiência com desenvolvimento **Front-end e Back-end**
+- 🗄️ Trabalhando com desenvolvimento e integração de **bancos de dados**
+- 🤖 Explorando **Inteligência Artificial aplicada ao desenvolvimento de software**
+- 🧠 Interessado em arquitetura de software, automação e novas tecnologias
+- 🚀 Desenvolvendo projetos próprios para expandir meu conhecimento e portfólio
+- 🇧🇷 Desenvolvedor brasileiro
 
-# 📌 Sobre mim
+<br>
 
-- 🎓 Estudante da **ETEC Zona Leste**
-- 💻 Curso **Desenvolvimento de Sistemas (AMS)**
-- 🌐 Interesse em desenvolvimento **front-end, back-end e mobile**
-- 📱 Atualmente estudando **PHP, Java, Kotlin, Python, C, C++ e C#**
-- 🚀 Sempre aprendendo novas tecnologias
+<!-- ========================================================= -->
+<!--                      PROJETO ATUAL                         -->
+<!-- ========================================================= -->
 
----
+## 🚀 Atualmente trabalhando em
 
-# 📫 Contato
+### 📸 LensClick
 
-- GitHub: [Renato1909](https://github.com/Renato1909)
-- Email: renato.aparecido.business@gmail.com
+Atualmente estou trabalhando no **LensClick**, desenvolvendo e aprimorando suas funcionalidades enquanto aplico conceitos de desenvolvimento Full Stack e engenharia de software.
 
----
+O projeto também faz parte da evolução do meu portfólio e da aplicação prática dos conhecimentos adquiridos durante meus estudos.
 
-⭐ Obrigado por visitar meu perfil!
+<br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=agvdj1ihki6vs65l4ribbirtd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- ========================================================= -->
+<!--                         LINGUAGENS                         -->
+<!-- ========================================================= -->
+
+## 💻 Linguagens
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=python,go,js,ts,java,php,c,cpp,cs,html,css&perline=11"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    DESENVOLVIMENTO WEB                     -->
+<!-- ========================================================= -->
+
+## 🌐 Desenvolvimento Web
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs&perline=8"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                      BANCO DE DADOS                        -->
+<!-- ========================================================= -->
+
+## 🗄️ Banco de Dados
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=mysql&perline=8"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         FERRAMENTAS                         -->
+<!-- ========================================================= -->
+
+## 🛠️ Ferramentas & Ambientes
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,windows,linux&perline=8"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  INTELIGÊNCIA ARTIFICIAL                   -->
+<!-- ========================================================= -->
+
+## 🤖 IA & Desenvolvimento Assistido
+
+<div align="center">
+
+`AI-assisted Development` • `Cline` • `Kilo Code` • `NVIDIA NIM` • `LLMs`
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       ÁREAS DE ESTUDO                       -->
+<!-- ========================================================= -->
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+### 🐍 Python &nbsp;&nbsp; • &nbsp;&nbsp; 🐹 Go
+
+</div>
+
+Estou aprofundando meus conhecimentos em **Python e Go**, explorando desde os fundamentos e boas práticas até aplicações mais avançadas, arquitetura de software, automação e desenvolvimento Back-end.
+
+Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem parte da minha stack.
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                         -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                           STREAK                            -->
+<!-- ========================================================= -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Renato1909&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                     ACTIVITY GRAPH                         -->
+<!-- ========================================================= -->
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Renato1909&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         CONTATO                             -->
+<!-- ========================================================= -->
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/Renato1909">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="SEU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                          SPOTIFY                            -->
+<!-- ========================================================= -->
+
+## 🎧 Spotify
+
+<div align="center">
+
+<a href="https://open.spotify.com/">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=1db954&bar_color_cover=false"
+    alt="Spotify Now Playing"
+  />
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                          FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+### 💡 Code. Learn. Build. Repeat.
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:238636&section=footer"
+  width="100%"
+/>
+
+</div>
