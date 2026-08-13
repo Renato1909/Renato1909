@@ -161,18 +161,20 @@ Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem 
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&hide_border=true"
+  height="165"
+  alt="GitHub Stats"
 />
 
+<br><br>
+
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  height="165"
+  alt="Top Languages"
 />
 
 </div>
-
-<br>
 
 <!-- ========================================================= -->
 <!--                           STREAK                            -->
@@ -183,13 +185,11 @@ Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Renato1909&theme=github-dark-blue&hide_border=true&locale=pt_BR"
-  alt="GitHub Contribution Streak"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Renato1909&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
-
-<br>
 
 <!-- ========================================================= -->
 <!--                     ACTIVITY GRAPH                         -->
