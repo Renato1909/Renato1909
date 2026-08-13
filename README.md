@@ -1,270 +1,164 @@
-<!-- ========================================================= -->
-<!--                  RENATO SILVA • GITHUB                     -->
-<!-- ========================================================= -->
+::: {align="center"}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:238636&text=Renato%20Silva&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20Student&descAlignY=58&animation=fadeIn" />{=html}
 
-<div align="center">
+👋 Olá, eu sou Renato Silva
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:238636&text=Renato%20Silva&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20Student&descAlignY=58&animation=fadeIn"
-/>
+Full Stack Developer • Software Development Student • Technology Enthusiast
 
-</div>
+Desenvolvedor brasileiro em constante aprendizado, interessado em
+desenvolvimento de software, aplicações web, inteligência artificial e
+novas tecnologias.
+:::
 
-<div align="center">
+<br>{=html}
 
-# 👋 Olá, eu sou Renato Silva
+👨‍💻 Sobre mim
 
-### Full Stack Developer • Software Development Student • Technology Enthusiast
+🎓 Estudante de Desenvolvimento de Sistemas
 
-Desenvolvedor brasileiro em constante aprendizado, interessado em desenvolvimento de software, aplicações web, inteligência artificial e novas tecnologias.
+💻 Desenvolvedor Full Stack
 
-</div>
+🐍 Aprofundando meus estudos em Python
 
-<br>
+🐹 Aprofundando meus estudos em Go
 
-<!-- ========================================================= -->
-<!--                         SOBRE MIM                          -->
-<!-- ========================================================= -->
+🌐 Desenvolvimento Front-end e Back-end
 
-## 👨‍💻 Sobre mim
+🗄️ Desenvolvimento e integração com bancos de dados
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor **Full Stack**
-- 🐍 Aprofundando meus conhecimentos em **Python**
-- 🐹 Aprofundando meus conhecimentos em **Go**
-- 🌐 Experiência com desenvolvimento **Front-end e Back-end**
-- 🗄️ Trabalhando com desenvolvimento e integração de **bancos de dados**
-- 🤖 Explorando **Inteligência Artificial aplicada ao desenvolvimento de software**
-- 🧠 Interessado em arquitetura de software, automação e novas tecnologias
-- 🚀 Desenvolvendo projetos próprios para expandir meu conhecimento e portfólio
-- 🇧🇷 Desenvolvedor brasileiro
+🤖 Interesse em Inteligência Artificial aplicada ao
+desenvolvimento de software
 
-<br>
+🧠 Estudando arquitetura de software, automação e novas tecnologias
 
-<!-- ========================================================= -->
-<!--                      PROJETO ATUAL                         -->
-<!-- ========================================================= -->
+🚀 Desenvolvendo projetos para ampliar meu conhecimento e portfólio
 
-## 🚀 Atualmente trabalhando em
+🇧🇷 Desenvolvedor brasileiro
 
-### 📸 LensClick
+<br>{=html}
 
-Atualmente estou trabalhando no **LensClick**, desenvolvendo e aprimorando suas funcionalidades enquanto aplico conceitos de desenvolvimento Full Stack e engenharia de software.
+🚀 Atualmente trabalhando em
 
-O projeto também faz parte da evolução do meu portfólio e da aplicação prática dos conhecimentos adquiridos durante meus estudos.
+📸 LensClick
 
-<br>
+Atualmente estou trabalhando no LensClick, desenvolvendo e
+aprimorando suas funcionalidades enquanto aplico conceitos de
+desenvolvimento Full Stack e engenharia de software.
 
-<!-- ========================================================= -->
-<!--                         LINGUAGENS                         -->
-<!-- ========================================================= -->
+O projeto faz parte da evolução do meu portfólio e da aplicação prática
+dos conhecimentos adquiridos durante meus estudos.
 
-## 💻 Linguagens
+<br>{=html}
 
-<div align="center">
+💻 Linguagens
 
-<img
-  src="https://skillicons.dev/icons?i=python,go,js,ts,java,php,c,cpp,cs,html,css&perline=11"
-/>
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,java,php,c,cpp,cs,html,css&perline=11" />{=html}
+:::
 
-</div>
+<br>{=html}
 
-<br>
+🌐 Desenvolvimento Web
 
-<!-- ========================================================= -->
-<!--                    DESENVOLVIMENTO WEB                     -->
-<!-- ========================================================= -->
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs&perline=8" />{=html}
+:::
 
-## 🌐 Desenvolvimento Web
+<br>{=html}
 
-<div align="center">
+🗄️ Banco de Dados
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs&perline=8"
-/>
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=mysql&perline=8" />{=html}
+:::
 
-</div>
+<br>{=html}
 
-<br>
+🛠️ Ferramentas & Ambientes
 
-<!-- ========================================================= -->
-<!--                      BANCO DE DADOS                        -->
-<!-- ========================================================= -->
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,windows,linux&perline=8" />{=html}
+:::
 
-## 🗄️ Banco de Dados
+<br>{=html}
 
-<div align="center">
+🤖 IA & Desenvolvimento Assistido
 
-<img
-  src="https://skillicons.dev/icons?i=mysql&perline=8"
-/>
+::: {align="center"}
+AI-assisted Development • Cline • Kilo Code • NVIDIA NIM •
+LLMs
+:::
 
-</div>
+<br>{=html}
 
-<br>
+📚 Atualmente estudando
 
-<!-- ========================================================= -->
-<!--                         FERRAMENTAS                         -->
-<!-- ========================================================= -->
+::: {align="center"}
 
-## 🛠️ Ferramentas & Ambientes
+🐍 Python    •    🐹 Go
 
-<div align="center">
+:::
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,windows,linux&perline=8"
-/>
+Estou aprofundando meus conhecimentos em Python e Go, explorando
+fundamentos, boas práticas, automação, desenvolvimento Back-end e
+conceitos de arquitetura de software.
 
-</div>
+Também continuo expandindo meus conhecimentos nas demais tecnologias que
+fazem parte da minha stack.
 
-<br>
+<br>{=html}
 
-<!-- ========================================================= -->
-<!--                  INTELIGÊNCIA ARTIFICIAL                   -->
-<!-- ========================================================= -->
+📊 GitHub Analytics
 
-## 🤖 IA & Desenvolvimento Assistido
+::: {align="center"}
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />{=html}
 
-<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Most Used Languages" />{=html}
+:::
 
-`AI-assisted Development` • `Cline` • `Kilo Code` • `NVIDIA NIM` • `LLMs`
+<br>{=html}
 
-</div>
+🔥 Contribution Streak
 
-<br>
+::: {align="center"}
+<img src="https://streak-stats.demolab.com?user=Renato1909&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />{=html}
+:::
 
-<!-- ========================================================= -->
-<!--                       ÁREAS DE ESTUDO                       -->
-<!-- ========================================================= -->
+<br>{=html}
 
-## 📚 Atualmente estudando
+📈 Gráfico de Contribuições
 
-<div align="center">
+::: {align="center"}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato1909&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />{=html}
+:::
 
-### 🐍 Python &nbsp;&nbsp; • &nbsp;&nbsp; 🐹 Go
+<br>{=html}
 
-</div>
+🌎 Onde me encontrar
 
-Estou aprofundando meus conhecimentos em **Python e Go**, explorando desde os fundamentos e boas práticas até aplicações mais avançadas, arquitetura de software, automação e desenvolvimento Back-end.
+::: {align="center"}
+<a href="https://github.com/Renato1909">{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}
+</a>{=html}
+:::
 
-Também continuo expandindo meus conhecimentos nas demais tecnologias que fazem parte da minha stack.
+<br>{=html}
 
-<br>
+🎧 Spotify
 
-<!-- ========================================================= -->
-<!--                       GITHUB STATS                         -->
-<!-- ========================================================= -->
+::: {align="center"}
+<a href="https://open.spotify.com/">{=html}
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />{=html}
+</a>{=html}
+:::
 
-<!-- ========================================================= -->
-<!--                       GITHUB STATS                         -->
-<!-- ========================================================= -->
+<br>{=html}
 
-## 📊 GitHub Analytics
+::: {align="center"}
 
-<div align="center">
+💡 Code. Learn. Build. Repeat.
 
-<img
-  src="./profile/stats.svg"
-  height="180"
-  alt="Renato Silva GitHub Stats"
-/>
+<br>{=html}
 
-<img
-  src="./profile/languages.svg"
-  height="180"
-  alt="Renato Silva Most Used Languages"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                           STREAK                            -->
-<!-- ========================================================= -->
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-  src="./profile/streak.svg"
-  alt="Renato Silva GitHub Contribution Streak"
-/>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                     ACTIVITY GRAPH                         -->
-<!-- ========================================================= -->
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Renato1909&theme=github-compact&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         CONTATO                             -->
-<!-- ========================================================= -->
-
-## 🌎 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/Renato1909">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="SEU_LINKEDIN_AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                          SPOTIFY                            -->
-<!-- ========================================================= -->
-
-## 🎧 Spotify
-
-<div align="center">
-
-<a href="https://open.spotify.com/">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=1db954&bar_color_cover=false"
-    alt="Spotify Now Playing"
-  />
-</a>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                          FOOTER                             -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-### 💡 Code. Learn. Build. Repeat.
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:238636&section=footer"
-  width="100%"
-/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:238636&section=footer" width="100%" />{=html}
+:::
