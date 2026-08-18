@@ -1,89 +1,36 @@
-# 👋 Olá, eu sou Renato Silva
+<div align="center"> <img src="./assets/banner-renato.svg" width="100%" alt="Renato Silva — Fé, propósito, trabalho e desenvolvimento de sistemas" /> <br /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3300&pause=850&color=E1B447&center=true&vCenter=true&width=760&lines=Desenvolvimento+de+Sistemas+com+prop%C3%B3sito.;Aprendendo%2C+construindo+e+evoluindo+a+cada+projeto.;C%C3%B3digo+que+resolve+problemas+reais." alt="Apresentação animada" /> </div>
+👨🏻‍💻 Sobre mim
+Olá! Eu sou Renato Aparecido da Silva — estudante de Desenvolvimento de Sistemas (DS/AMS) na ETEC Zona Leste, em São Paulo. Tenho interesse em desenvolvimento Full Stack, back-end, bancos de dados, sistemas Linux e Inteligência Artificial.
 
-### 💻 Full Stack Developer | Estudante de Desenvolvimento de Sistemas
+🎓 3º semestre de Desenvolvimento de Sistemas — DS/AMS
+📍 São Paulo, Brasil
+🌱 Aprendendo na prática, criando projetos e explorando novas tecnologias
+💬 Aberto a trocar ideias sobre tecnologia, programação e projetos
+📸 Projeto em destaque — LensClick
+<div align="center"> <table> <tr> <td width="64" align="center">📸</td> <td> <b>LensClick</b> é meu projeto Full Stack em desenvolvimento. A proposta é reunir front-end, back-end, APIs e banco de dados em uma aplicação moderna, colocando em prática tudo o que venho estudando.<br /><br /> <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-E1B447?style=for-the-badge&labelColor=071A31" alt="Status: em desenvolvimento" /> </td> </tr> </table> </div>
+Assim que o repositório da LensClick estiver público, basta substituir este bloco por um link para ele.
 
-Desenvolvedor em constante aprendizado, interessado em **desenvolvimento Full Stack, arquitetura de software, banco de dados e Inteligência Artificial**.
+🧰 Tecnologias e ferramentas
+<div align="center">
+Linguagens
 
-Atualmente, meu principal projeto é a **LensClick** 📸.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,c,cpp,cs,go&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, PHP, C, C++, C Sharp e Go" />
+<br /><br />
 
----
+Desenvolvimento e dados
 
-## 📸 LensClick
+<img src="https://skillicons.dev/icons?i=react,mysql,vscode,netbeans&theme=dark" alt="React, MySQL, Visual Studio Code e NetBeans" />
+<br /><br />
 
-A **LensClick** é meu principal projeto Full Stack, desenvolvido para aplicar e expandir meus conhecimentos em **Front-end, Back-end, APIs, Banco de Dados e desenvolvimento de aplicações modernas**.
+Sistemas Linux
 
-🚧 **Projeto em desenvolvimento**
+<img src="https://img.shields.io/badge/Kali%20Linux-071A31?style=for-the-badge&logo=kalilinux&logoColor=E1B447" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Ubuntu-071A31?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" /> <img src="https://img.shields.io/badge/Linux%20Mint-071A31?style=for-the-badge&logo=linuxmint&logoColor=87CF3E" alt="Linux Mint" /> <img src="https://img.shields.io/badge/Alpine%20Linux-071A31?style=for-the-badge&logo=alpinelinux&logoColor=0D597F" alt="Alpine Linux" />
+<br /><br />
 
----
+Outros interesses
 
-## 💻 Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-
----
-
-## ⚡ Frameworks & Tecnologias
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
----
-
-## 🛠️ IDEs & Ferramentas
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge\&logo=vscodium\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge\&logo=apachenetbeanside\&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 🧠 Atualmente estudando
-
-* 🐍 Python
-* 🌐 Desenvolvimento Full Stack
-* ⚙️ Back-end
-* 🗄️ Banco de Dados
-* 🤖 Inteligência Artificial
-* 🏗️ Arquitetura de Software
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renato1909\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909\&layout=compact\&langs_count=10\&theme=github_dark\&hide_border=true)
-
----
-
-## 🔥 Sequência de contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Renato1909\&theme=github-dark-blue\&hide_border=true)
-
----
-
-## 🌐 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-Renato1909-181717?style=for-the-badge\&logo=github)](https://github.com/Renato1909)
-
----
-
-### 🚀 Sempre aprendendo, desenvolvendo e transformando ideias em projetos.
-
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-0B2746?style=for-the-badge&logo=robotframework&logoColor=E1B447" alt="Inteligência Artificial" /> <img src="https://img.shields.io/badge/Antigravity-0B2746?style=for-the-badge&logoColor=E1B447" alt="Antigravity" /></div>
+📊 GitHub Analytics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Renato1909&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=E1B447&text_color=C9D1D9&icon_color=3FB950&ring_color=E1B447" alt="Estatísticas do GitHub de Renato" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato1909&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E1B447&text_color=C9D1D9" alt="Linguagens mais utilizadas por Renato" /> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=Renato1909&locale=pt_BR&hide_border=true&background=0D1117&ring=E1B447&fire=E1B447&currStreakLabel=E1B447&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições de Renato no GitHub" /> </div><div align="center"> <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Renato1909&bg_color=0D1117&color=C9D1D9&line=3FB950&point=E1B447&area=true&area_color=238636&hide_border=true&radius=8" alt="Gráfico de atividade do Renato no GitHub" /> </div>
+🤝 Contato
+<div align="center"> <a href="https://github.com/Renato1909"> <img src="https://img.shields.io/badge/GitHub-Renato1909-071A31?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Renato no GitHub" /> </a> <br /><br /> <img src="https://komarev.com/ghpvc/?username=Renato1909&label=VISITAS+AO+PERFIL&color=008C5A&style=flat-square" alt="Contador de visitas ao perfil" /> <br /><br /> <i>“Sempre aprendendo, desenvolvendo e transformando ideias em projetos.”</i> </div>
