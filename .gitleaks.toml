@@ -1,0 +1,56 @@
+title = "Guarda de segredos dos repositorios do Renato"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "supabase-secret-key"
+description = "Chave secreta ou de servico do Supabase"
+regex = '''sb_(secret|preselect|user)_[a-zA-Z0-9_\-]{16,}|sbp_[a-f0-9]{32,}|eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9\.[a-zA-Z0-9_\-]{20,}\.[a-zA-Z0-9_\-]{10,}'''
+keywords = ["sb_secret", "sbp_", "eyJhbgcioujiu1niisinr5cciaikpxvcj9"]
+
+[[rules]]
+id = "cloudflare-api-token"
+description = "API token do Cloudflare"
+regex = '''v1\.[a-z0-9_\-]{16,}\.[a-z0-9_\-]{16,}\.[a-z0-9_\-]{16,}'''
+keywords = ["v1."]
+
+[[rules]]
+id = "expo-eas-token"
+description = "Token do Expo/EAS"
+regex = '''expo:[a-z0-9_\-]{24,}'''
+keywords = ["expo:"]
+
+[[rules]]
+id = "brevo-sendinblue-key"
+description = "Chave de API da Brevo"
+regex = '''xkeysib-[a-f0-9]{20,40}\-[a-z0-9]{12,}'''
+keywords = ["xkeysib-"]
+
+# A classe "atribuicao literal de credencial" fica em tools/secret-scan.mjs.
+# O motor do gitleaks e RE2 e nao tem lookahead, entao nao ha como exigir ali
+# "tem minuscula, maiuscula e digito" sem gerar falso positivo em fixture.
+
+[allowlist]
+description = "Fixtures de teste, exemplos e artefatos que nao sao credenciais reais"
+paths = [
+  '''package-lock\.json$''',
+  '''go\.sum$''',
+  '''\.min\.js$''',
+  '''\.pdf$''',
+  '''\.docx$''',
+  '''\.env\.example$''',
+  '''\.dev\.vars\.example$''',
+  '''\.example$''',
+  '''\.gitleaks\.toml$''',
+  '''tools/secret-scan\.mjs$''',
+  '''hooks/pre-push$''',
+]
+regexes = [
+  '''Renato1909/[\w.\-]+''',
+  '''Segura123|Errada123|SenhaNova2|SenhaAntiga1|SenhaErrada1|OutraSenha3|OutraNova3|Excluir123|Password123|Portfolio123''',
+  '''CANARY|AKIAIOSFODNN7EXAMPLE''',
+  '''brevo_test_only|substitua_pela_chave|ExponentPushToken\[test\]''',
+  '''images\.unsplash\.com''',
+  '''example\.(com|test)''',
+]

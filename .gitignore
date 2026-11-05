@@ -1,0 +1,20 @@
+
+# Credenciais e material particular nunca devem entrar no repositorio.
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*_rsa
+.secrets
+credentials
+credentials.json
+service-account*.json
+*.kdbx

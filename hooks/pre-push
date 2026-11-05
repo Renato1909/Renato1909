@@ -1,0 +1,50 @@
+#!/bin/sh
+# Guarda de segredos no push.
+# Verifica exatamente os objetos dos commits enviados, não a árvore inteira.
+# Recusa o push quando encontra credencial de alto risco.
+
+ROOT=$(git rev-parse --show-toplevel) || exit 0
+
+# O scanner versionado do repositorio manda; a copia global so vale para
+# repositorios que ainda nao trazem tools/secret-scan.mjs.
+SCANNER="$ROOT/tools/secret-scan.mjs"
+[ -f "$SCANNER" ] || SCANNER="$HOME/.local/share/renato-secret-guard/secret-scan.mjs"
+command -v node >/dev/null 2>&1 || {
+  echo "guarda de segredos: node nao encontrado, push nao verificado" >&2
+  exit 0
+}
+[ -f "$SCANNER" ] || exit 0
+
+BLOCKED=0
+SEEN=$(mktemp)
+ZERO="0000000000000000000000000000000000000000"
+
+while read -r local_ref local_oid remote_ref remote_oid; do
+  [ "$local_oid" = "$ZERO" ] && continue
+
+  if [ "$remote_oid" = "$ZERO" ] || ! git cat-file -e "$remote_oid" 2>/dev/null; then
+    RANGE="$local_oid"
+  else
+    RANGE="$remote_oid..$local_oid"
+  fi
+
+  grep -qxF "$RANGE" "$SEEN" 2>/dev/null && continue
+  echo "$RANGE" >> "$SEEN"
+
+  if ! node "$SCANNER" "$ROOT" --range "$RANGE" >&2; then
+    BLOCKED=1
+  fi
+done
+
+rm -f "$SEEN"
+
+if [ "$BLOCKED" -ne 0 ]; then
+  echo "" >&2
+  echo "PUSH BLOQUEADO pela guarda de segredos." >&2
+  echo "1) Rotacione a credencial no provedor ANTES de qualquer limpeza." >&2
+  echo "2) Remova do historico com git filter-repo ou BFG." >&2
+  echo "3) Nao use --no-verify para escapar: o valor ja vazou no momento do envio." >&2
+  exit 1
+fi
+
+exit 0
