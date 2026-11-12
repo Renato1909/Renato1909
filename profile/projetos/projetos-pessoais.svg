@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="296" viewBox="0 0 620 296" role="img" aria-labelledby="t d">
+<title id="t">Projetos-Pessoais — exercícios e pequenos sistemas em C, C++, C#, Go, Python, PHP, JavaScript e TypeScript.</title>
+<desc id="d">Card do projeto Projetos-Pessoais com descrição e tecnologias utilizadas.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="620" y2="296" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0C2337"/><stop offset="1" stop-color="#071A31"/>
+  </linearGradient>
+  <linearGradient id="ic" x1="34" y1="30" x2="96" y2="92" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#B8862B"/><stop offset="1" stop-color="#E1B447"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(596 4) scale(280 200)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#E1B447" stop-opacity=".18"/><stop offset="1" stop-color="#E1B447" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r=".75" fill="#FFFFFF" fill-opacity=".14"/>
+  </pattern>
+  <clipPath id="cardClip"><rect width="620" height="296" rx="18"/></clipPath>
+</defs>
+
+<g clip-path="url(#cardClip)">
+  <rect width="620" height="296" fill="url(#bg)"/>
+  <rect width="620" height="296" fill="url(#dots)" opacity=".5"/>
+  <rect width="620" height="296" fill="url(#glow)"/>
+  <rect x="0" y="0" width="620" height="1.4" fill="#FFFFFF" fill-opacity=".16"/>
+  <path d="M0 0h1.4v296H0z" fill="#FFFFFF" fill-opacity=".05"/>
+</g>
+<rect x=".6" y=".6" width="618.8" height="294.8" rx="17.4" fill="none" stroke="#26455F" stroke-width="1.2"/>
+
+
+    <g>
+      <rect x="34" y="30" width="62" height="62" rx="17.360000000000003" fill="url(#ic)"/>
+      <rect x="34" y="30" width="62" height="62" rx="17.360000000000003" fill="#04101C" fill-opacity=".12"/>
+      <g transform="translate(48.26 44.26) scale(1.3950)" fill="none"
+         stroke="#F4FAF7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        
+    <path d="M8.6 8.4 4.4 12l4.2 3.6"/>
+    <path d="M15.4 8.4 19.6 12l-4.2 3.6"/>
+    <path d="M13.4 5.4 10.6 18.6"/>
+      </g>
+    </g>
+
+<text x="118" y="54" fill="#E1B447" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="2.4">ESTUDOS · LINGUAGENS</text>
+<text x="118" y="88" fill="#FFFFFF" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.4">Projetos-Pessoais</text>
+
+<g stroke="#E1B447" stroke-width="1.8" stroke-linecap="round" fill="none" opacity=".72">
+  <path d="M568 60 584 44"/><path d="M572 44h12v12"/>
+</g>
+
+<text x="34" y="148" fill="#A9BDCD" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18.8" font-weight="400">Exercícios e pequenos sistemas organizados por linguagem e</text>
+<text x="34" y="174" fill="#A9BDCD" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18.8" font-weight="400">área: redes, APIs, segurança e lógica.</text>
+
+<path d="M34 202h552" stroke="#1E3B55" stroke-width="1.2"/>
+
+        <circle cx="36.6" cy="242.1" r="3" fill="#A8B9CC" opacity=".95"/>
+        <text x="45.6" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">C</text>
+        <circle cx="75.0" cy="242.1" r="3" fill="#0F7BC4" opacity=".95"/>
+        <text x="84.0" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">C++</text>
+        <circle cx="134.0" cy="242.1" r="3" fill="#2FA84F" opacity=".95"/>
+        <text x="143.0" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">C#</text>
+        <circle cx="182.3" cy="242.1" r="3" fill="#00ADD8" opacity=".95"/>
+        <text x="191.3" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Go</text>
+        <circle cx="230.2" cy="242.1" r="3" fill="#F2C744" opacity=".95"/>
+        <text x="239.2" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Python</text>
+        <circle cx="309.4" cy="242.1" r="3" fill="#8A93D6" opacity=".95"/>
+        <text x="318.4" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">PHP</text>
+        <circle cx="367.8" cy="242.1" r="3" fill="#F1E05A" opacity=".95"/>
+        <text x="376.8" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">JS</text>
+        <circle cx="413.7" cy="242.1" r="3" fill="#3178C6" opacity=".95"/>
+        <text x="422.7" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">TS</text>
+</svg>
