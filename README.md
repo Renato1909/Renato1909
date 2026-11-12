@@ -35,11 +35,13 @@ A <b>LensClick</b> é um projeto acadêmico desenvolvido com envolvimento da <b>
 🧭 Mais projetos
 
 <div align="center">
-  <a href="https://github.com/Renato1909/clube-wpi3d"><img src="profile/projetos/clube-wpi3d.svg" width="48%" alt="Clube WPI3D — plataforma de orçamentos e pedidos de impressão 3D em TypeScript, React, Next.js e PostgreSQL" /></a>
-  <a href="https://github.com/Renato1909/Clube-Wpi3D-Mobile"><img src="profile/projetos/clube-wpi3d-mobile.svg" width="48%" alt="Clube Wpi3D Mobile — aplicativo Expo e React Native com notificações push e testes automatizados" /></a>
+  <a href="https://github.com/Renato1909/clube-wpi3d"><img src="profile/projetos/clube-wpi3d.svg" width="47%" alt="Clube WPI3D — plataforma de orçamentos e pedidos de impressão 3D em TypeScript, React, Next.js e PostgreSQL" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Renato1909/Clube-Wpi3D-Mobile"><img src="profile/projetos/clube-wpi3d-mobile.svg" width="47%" alt="Clube Wpi3D Mobile — aplicativo Expo e React Native com notificações push e testes automatizados" /></a>
   <br />
-  <a href="https://github.com/Renato1909/LensClickApp"><img src="profile/projetos/lensclick-app.svg" width="48%" alt="LensClickApp — aplicativo Android em Kotlin e Jetpack Compose que consome a API do LensClick" /></a>
-  <a href="https://github.com/Renato1909/Projetos-Pessoais"><img src="profile/projetos/projetos-pessoais.svg" width="48%" alt="Projetos-Pessoais — exercícios e pequenos sistemas em C, C++, C#, Go, Python, PHP, JavaScript e TypeScript" /></a>
+  <a href="https://github.com/Renato1909/LensClickApp"><img src="profile/projetos/lensclick-app.svg" width="47%" alt="LensClickApp — aplicativo Android em Kotlin e Jetpack Compose que consome a API do LensClick" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Renato1909/Projetos-Pessoais"><img src="profile/projetos/projetos-pessoais.svg" width="47%" alt="Projetos-Pessoais — exercícios e pequenos sistemas em C, C++, C#, Go, Python, PHP, JavaScript e TypeScript" /></a>
 </div>
 
 🧰 Tecnologias e ferramentas
