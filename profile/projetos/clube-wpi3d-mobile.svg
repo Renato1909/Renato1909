@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="296" viewBox="0 0 620 296" role="img" aria-labelledby="t d">
+<title id="t">Clube Wpi3D Mobile — aplicativo Expo e React Native com notificações push e testes automatizados.</title>
+<desc id="d">Card do projeto Clube Wpi3D Mobile com descrição e tecnologias utilizadas.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="620" y2="296" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0C2337"/><stop offset="1" stop-color="#071A31"/>
+  </linearGradient>
+  <linearGradient id="ic" x1="34" y1="30" x2="96" y2="92" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#1F5FD0"/><stop offset="1" stop-color="#4C9BFF"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(596 4) scale(280 200)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#4C9BFF" stop-opacity=".18"/><stop offset="1" stop-color="#4C9BFF" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r=".75" fill="#FFFFFF" fill-opacity=".14"/>
+  </pattern>
+  <clipPath id="cardClip"><rect width="620" height="296" rx="18"/></clipPath>
+</defs>
+
+<g clip-path="url(#cardClip)">
+  <rect width="620" height="296" fill="url(#bg)"/>
+  <rect width="620" height="296" fill="url(#dots)" opacity=".5"/>
+  <rect width="620" height="296" fill="url(#glow)"/>
+  <rect x="0" y="0" width="620" height="1.4" fill="#FFFFFF" fill-opacity=".16"/>
+  <path d="M0 0h1.4v296H0z" fill="#FFFFFF" fill-opacity=".05"/>
+</g>
+<rect x=".6" y=".6" width="618.8" height="294.8" rx="17.4" fill="none" stroke="#26455F" stroke-width="1.2"/>
+
+
+    <g>
+      <rect x="34" y="30" width="62" height="62" rx="17.360000000000003" fill="url(#ic)"/>
+      <rect x="34" y="30" width="62" height="62" rx="17.360000000000003" fill="#04101C" fill-opacity=".12"/>
+      <g transform="translate(48.26 44.26) scale(1.3950)" fill="none"
+         stroke="#F4FAF7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        
+    <rect x="7.2" y="2.8" width="9.6" height="18.4" rx="2.6"/>
+    <path d="M10.6 5.7h2.8"/>
+    <path d="M10.9 18.6h2.2"/>
+      </g>
+    </g>
+
+<text x="118" y="54" fill="#E1B447" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="2.4">MOBILE · ANDROID</text>
+<text x="118" y="88" fill="#FFFFFF" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.4">Clube Wpi3D Mobile</text>
+
+<g stroke="#E1B447" stroke-width="1.8" stroke-linecap="round" fill="none" opacity=".72">
+  <path d="M568 60 584 44"/><path d="M572 44h12v12"/>
+</g>
+
+<text x="34" y="148" fill="#A9BDCD" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18.8" font-weight="400">Aplicativo Expo + React Native ligado ao mesmo back-end,</text>
+<text x="34" y="174" fill="#A9BDCD" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18.8" font-weight="400">com notificações push e testes automatizados.</text>
+
+<path d="M34 202h552" stroke="#1E3B55" stroke-width="1.2"/>
+
+        <circle cx="36.6" cy="242.1" r="3" fill="#3178C6" opacity=".95"/>
+        <text x="45.6" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">TypeScript</text>
+        <circle cx="145.0" cy="242.1" r="3" fill="#61DAFB" opacity=".95"/>
+        <text x="154.0" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">React Native</text>
+        <circle cx="266.1" cy="242.1" r="3" fill="#F2F6FA" opacity=".95"/>
+        <text x="275.1" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Expo</text>
+        <circle cx="330.0" cy="242.1" r="3" fill="#3DDC84" opacity=".95"/>
+        <text x="339.0" y="246" fill="#BFD0DE" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Android</text>
+</svg>

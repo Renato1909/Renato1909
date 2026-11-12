@@ -4,9 +4,46 @@ Olá! Eu sou Renato Aparecido da Silva, estudante de Desenvolvimento de Sistemas
 
 <p> 🎓&nbsp;&nbsp;<b>4º semestre</b> de Desenvolvimento de Sistemas — DS/AMS<br /> 📍&nbsp;&nbsp;<b>São Paulo</b>, Brasil<br /> 🌱&nbsp;&nbsp;Aprendendo na prática e transformando estudos em projetos<br /> 💬&nbsp;&nbsp;Aberto a trocar ideias sobre tecnologia, programação e projetos </p><br />
 📸 Projeto em destaque
-<table> <tr> <td> <div align="center"> <h2><a href="https://github.com/Renato1909/LensClick">LensClick</a></h2> <p><strong>Plataforma Full Stack que conecta fotógrafos e clientes</strong></p> <p> <img src="https://img.shields.io/badge/IBM%20Brasil-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Brasil" /> <img src="https://img.shields.io/badge/PROJETO%20ACAD%C3%8AMICO-0B2746?style=for-the-badge&labelColor=071A31" alt="Projeto acadêmico" /> <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-E1B447?style=for-the-badge&labelColor=071A31" alt="Status: em desenvolvimento" /> <img src="https://img.shields.io/badge/FOCO-FULL%20STACK-008C5A?style=for-the-badge&labelColor=071A31" alt="Foco: Full Stack" /> </p> </div> <br /> <p> A <b>LensClick</b> é um projeto acadêmico desenvolvido com envolvimento da <b>IBM Brasil</b>. A plataforma nasceu para aproximar fotógrafos e clientes em um só lugar: quem vive da fotografia encontra espaço para mostrar o trabalho, e quem precisa de um ensaio encontra o profissional certo. </p> <p> É também o projeto em que reúno, na prática, front-end, back-end, APIs e banco de dados — estudar, testar, construir e melhorar em um produto real. </p> <p> 📷&nbsp;&nbsp;Conecta fotógrafos e clientes em uma única plataforma<br /> 🏫&nbsp;&nbsp;Projeto acadêmico — ETEC Zona Leste (DS/AMS)<br /> 🤝&nbsp;&nbsp;Desenvolvido com envolvimento da IBM Brasil<br /> 🧩&nbsp;&nbsp;Full Stack: interfaces, serviços, APIs e persistência de dados </p> <p> 🔗&nbsp;&nbsp;<a href="https://lensclick.renato-aparecido-business.workers.dev">Ambiente em execução</a> &nbsp;·&nbsp; <a href="https://github.com/Renato1909/LensClick">Código do back-end e site</a> &nbsp;·&nbsp; <a href="https://github.com/Renato1909/LensClickApp">Aplicativo Android</a> </p> </td> </tr> </table><br />
+
+<div align="center">
+  <a href="https://github.com/Renato1909/LensClick">
+    <img src="profile/lensclick-capa.svg" width="100%" alt="LensClick — capa do projeto com prévia da galeria de fotos da plataforma" />
+  </a>
+</div>
+
+<p>
+A <b>LensClick</b> é um projeto acadêmico desenvolvido com envolvimento da <b>IBM Brasil</b>. A plataforma nasceu para aproximar fotógrafos e clientes em um só lugar: quem vive da fotografia encontra espaço para mostrar o trabalho, e quem precisa de um ensaio encontra o profissional certo.
+</p>
+
+<p>
+É também o projeto em que reuno, na prática, front-end, back-end, APIs e banco de dados — estudar, testar, construir e melhorar em um produto real.
+</p>
+
+<p>
+📷&nbsp;&nbsp;Conecta fotógrafos e clientes em uma única plataforma<br />
+🏫&nbsp;&nbsp;Projeto acadêmico — ETEC Zona Leste (DS/AMS)<br />
+🤝&nbsp;&nbsp;Desenvolvido com envolvimento da IBM Brasil<br />
+🧩&nbsp;&nbsp;Full Stack: interfaces, serviços, APIs e persistência de dados
+</p>
+
+<p>
+  <a href="https://lensclick.renato-aparecido-business.workers.dev"><img src="https://img.shields.io/badge/AMBIENTE%20EM%20EXECU%C3%87%C3%83O-008C5A?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Abrir o ambiente em execução da LensClick" /></a>
+  <a href="https://github.com/Renato1909/LensClick"><img src="https://img.shields.io/badge/C%C3%93DIGO%20E%20SITE-0B2746?style=for-the-badge&labelColor=071A31&logo=github&logoColor=white" alt="Abrir o código do back-end e do site da LensClick" /></a>
+  <a href="https://github.com/Renato1909/LensClickApp"><img src="https://img.shields.io/badge/APLICATIVO%20ANDROID-E1B447?style=for-the-badge&labelColor=071A31&logo=android&logoColor=071A31" alt="Abrir o aplicativo Android da LensClick" /></a>
+</p>
+
 🧭 Mais projetos
-<table> <tr> <td width="50%" valign="top"> <h3>🖨️ <a href="https://github.com/Renato1909/clube-wpi3d">Clube WPI3D</a></h3> <p>Plataforma de orçamentos e pedidos de impressão 3D, com back-end no servidor e regras de acesso por perfil.</p> <img src="https://skillicons.dev/icons?i=ts,react,next,postgres&theme=dark" alt="TypeScript, React, Next.js e PostgreSQL" /> </td> <td width="50%" valign="top"> <h3>📱 <a href="https://github.com/Renato1909/Clube-Wpi3D-Mobile">Clube Wpi3D Mobile</a></h3> <p>Aplicativo Expo + React Native ligado ao mesmo backend do Clube WPI3D, com notificações push e testes automatizados.</p> <img src="https://skillicons.dev/icons?i=ts,react,android&theme=dark" alt="TypeScript, React Native e Android" /> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📸 <a href="https://github.com/Renato1909/LensClickApp">LensClickApp</a></h3> <p>Aplicativo Android em Kotlin e Jetpack Compose que consome a API do LensClick, com dados locais e navegação por estados.</p> <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" alt="Kotlin e Android" /> </td> <td width="50%" valign="top"> <h3>🧪 <a href="https://github.com/Renato1909/Projetos-Pessoais">Projetos-Pessoais</a></h3> <p>Exercícios e pequenos sistemas organizados por linguagem e área: redes, APIs, segurança, comunicação e lógica.</p> <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,python,php,js,ts&theme=dark" alt="C, C++, C#, Go, Python, PHP, JavaScript e TypeScript" /> </td> </tr> </table><br />
+
+<div align="center">
+  <a href="https://github.com/Renato1909/clube-wpi3d"><img src="profile/projetos/clube-wpi3d.svg" width="47%" alt="Clube WPI3D — plataforma de orçamentos e pedidos de impressão 3D em TypeScript, React, Next.js e PostgreSQL" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Renato1909/Clube-Wpi3D-Mobile"><img src="profile/projetos/clube-wpi3d-mobile.svg" width="47%" alt="Clube Wpi3D Mobile — aplicativo Expo e React Native com notificações push e testes automatizados" /></a>
+  <br />
+  <a href="https://github.com/Renato1909/LensClickApp"><img src="profile/projetos/lensclick-app.svg" width="47%" alt="LensClickApp — aplicativo Android em Kotlin e Jetpack Compose que consome a API do LensClick" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Renato1909/Projetos-Pessoais"><img src="profile/projetos/projetos-pessoais.svg" width="47%" alt="Projetos-Pessoais — exercícios e pequenos sistemas em C, C++, C#, Go, Python, PHP, JavaScript e TypeScript" /></a>
+</div>
+
 🧰 Tecnologias e ferramentas
 <table> <tr> <td width="50%" valign="top"> <h3>🎨 Front-end</h3> <p>Interfaces responsivas, experiência do usuário e aplicações web.</p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="HTML, CSS, JavaScript, TypeScript e React" /> </td> <td width="50%" valign="top"> <h3>⚙️ Back-end e linguagens</h3> <p>Lógica, serviços, APIs e fundamentos de programação.</p> <img src="https://skillicons.dev/icons?i=python,php,go,c,cpp,cs&theme=dark" alt="Python, PHP, Go, C, C++ e C Sharp" /> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🗄️ Banco de dados</h3> <p>Modelagem, consultas e persistência de dados.</p> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /> </td> <td width="50%" valign="top"> <h3>🐧 Sistemas operacionais</h3> <p>Ambientes Linux para estudo, desenvolvimento e exploração.</p> <img src="https://img.shields.io/badge/Kali%20Linux-071A31?style=for-the-badge&logo=kalilinux&logoColor=E1B447" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Ubuntu-071A31?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" /> <br /> <img src="https://img.shields.io/badge/Linux%20Mint-071A31?style=for-the-badge&logo=linuxmint&logoColor=87CF3E" alt="Linux Mint" /> <img src="https://img.shields.io/badge/Alpine%20Linux-071A31?style=for-the-badge&logo=alpinelinux&logoColor=0D597F" alt="Alpine Linux" /> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🛠️ IDEs e ambiente de criação</h3> <p>Ferramentas que fazem parte do meu fluxo de estudo e desenvolvimento.</p> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" height="48" alt="Apache NetBeans" /> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" height="48" alt="Antigravity" /> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/opencode.png" height="48" alt="OpenCode" /> </td> <td width="50%" valign="top"> <h3>🧠 Interesses de estudo</h3> <p>Áreas que orientam meus próximos projetos e minha evolução técnica.</p> <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-0B2746?style=for-the-badge&logo=robotframework&logoColor=E1B447" alt="Inteligência Artificial" /> <br /><br /> <code>Full Stack</code> · <code>APIs REST</code> · <code>Arquitetura de Software</code> </td> </tr> </table><br />
 📊 GitHub Analytics
